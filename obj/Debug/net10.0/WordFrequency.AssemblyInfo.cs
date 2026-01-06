@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WordFrequency")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9814bf00284950d1dc6bb18c92ebd4e258fa63e")]
 [assembly: System.Reflection.AssemblyProductAttribute("WordFrequency")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WordFrequency")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
