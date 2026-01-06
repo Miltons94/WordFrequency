@@ -1,0 +1,14 @@
+C:\Users\milto\OneDrive\Documents\PROJECTS_PERSONAL\WordFrequency\bin\Debug\net10.0\WordFrequency.exe
+C:\Users\milto\OneDrive\Documents\PROJECTS_PERSONAL\WordFrequency\bin\Debug\net10.0\WordFrequency.deps.json
+C:\Users\milto\OneDrive\Documents\PROJECTS_PERSONAL\WordFrequency\bin\Debug\net10.0\WordFrequency.runtimeconfig.json
+C:\Users\milto\OneDrive\Documents\PROJECTS_PERSONAL\WordFrequency\bin\Debug\net10.0\WordFrequency.dll
+C:\Users\milto\OneDrive\Documents\PROJECTS_PERSONAL\WordFrequency\bin\Debug\net10.0\WordFrequency.pdb
+C:\Users\milto\OneDrive\Documents\PROJECTS_PERSONAL\WordFrequency\obj\Debug\net10.0\WordFrequency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milto\OneDrive\Documents\PROJECTS_PERSONAL\WordFrequency\obj\Debug\net10.0\WordFrequency.AssemblyInfoInputs.cache
+C:\Users\milto\OneDrive\Documents\PROJECTS_PERSONAL\WordFrequency\obj\Debug\net10.0\WordFrequency.AssemblyInfo.cs
+C:\Users\milto\OneDrive\Documents\PROJECTS_PERSONAL\WordFrequency\obj\Debug\net10.0\WordFrequency.csproj.CoreCompileInputs.cache
+C:\Users\milto\OneDrive\Documents\PROJECTS_PERSONAL\WordFrequency\obj\Debug\net10.0\WordFrequency.dll
+C:\Users\milto\OneDrive\Documents\PROJECTS_PERSONAL\WordFrequency\obj\Debug\net10.0\refint\WordFrequency.dll
+C:\Users\milto\OneDrive\Documents\PROJECTS_PERSONAL\WordFrequency\obj\Debug\net10.0\WordFrequency.pdb
+C:\Users\milto\OneDrive\Documents\PROJECTS_PERSONAL\WordFrequency\obj\Debug\net10.0\WordFrequency.genruntimeconfig.cache
+C:\Users\milto\OneDrive\Documents\PROJECTS_PERSONAL\WordFrequency\obj\Debug\net10.0\ref\WordFrequency.dll
